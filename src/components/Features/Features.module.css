@@ -1,0 +1,56 @@
+.featuresContainer {
+  display: flex;
+  gap: 40px;
+}
+.container {
+  display: flex;
+  width: 631px;
+  padding: 44px 60px;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+  background: #f7f7f7;
+}
+.camperEquipment {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 100px;
+}
+.camperEquipmentItem {
+  display: flex;
+  padding: 12px 18px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 100px;
+  background: #f2f4f7;
+  mix-blend-mode: multiply;
+}
+
+.detailsLine {
+  width: 520px;
+  height: 0px;
+  stroke-width: 1px;
+  stroke: #dadde1;
+  margin-bottom: 24px;
+}
+
+.detailsVehicleTitle {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2; /* 120% */
+  margin-bottom: 24px;
+}
+
+.detailsContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.detailsContainerTitle,
+.detailsContainerText {
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.5; /* 150% */
+}

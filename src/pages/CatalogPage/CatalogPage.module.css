@@ -1,0 +1,16 @@
+.containerCatalogPage {
+  display: flex;
+}
+
+.containerSideBar {
+  margin-right: 64px;
+}
+
+.containerCatalog {
+  padding: 48px 64px;
+}
+
+.containerBtn {
+  display: flex;
+  justify-content: center;
+}

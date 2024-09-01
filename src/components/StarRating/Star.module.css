@@ -1,0 +1,11 @@
+.star {
+  margin-right: 5px;
+}
+
+.starFilled {
+  color: #ffc531;
+}
+
+.starEmpty {
+  color: #f2f4f7;
+}

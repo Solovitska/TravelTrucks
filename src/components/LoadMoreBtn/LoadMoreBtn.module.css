@@ -1,0 +1,19 @@
+.loadMoreBtn {
+  border-radius: 200px;
+  border: 1px solid #dadde1;
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: -0.005em;
+  font-weight: 500;
+  cursor: pointer;
+  background-color: inherit;
+  margin-bottom: 52px;
+  margin-top: 40px;
+}
+
+.loadMoreBtn:hover {
+  border: 1px solid #d84343;
+}
